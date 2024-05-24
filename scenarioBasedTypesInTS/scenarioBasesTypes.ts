@@ -34,3 +34,5 @@ const card: cardDetails = {
   cardNumber: "123",
   cvv: 988,
 };
+
+export {};

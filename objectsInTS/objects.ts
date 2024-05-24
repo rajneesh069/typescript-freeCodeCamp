@@ -15,3 +15,4 @@ function createCourse(): { name: string; price: number } {
 //bad behaviour of objects
 let newUser = { name: "Rajneesh", email: "rajneesh.mishra9616@gmail.com", isPaid : true };
 createUser(newUser);
+export {}

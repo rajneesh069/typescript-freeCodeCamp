@@ -15,3 +15,4 @@ function createUser(user: User): User {
 }
 
 createUser({ name: "", email: "", isActive: true });
+export {}

@@ -42,3 +42,4 @@ const MLModels: number[][] = [ //2D Array
 //   [255, "255", 255],
 //   [233, 233, 234],
 // ]; //gives error as string is one of the elements in the array
+export {}
