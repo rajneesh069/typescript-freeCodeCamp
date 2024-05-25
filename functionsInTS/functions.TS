@@ -41,3 +41,5 @@ function consoleError(errmsg: string): void {
 function handleError(msg: string): never { //never returns a value, i.e. we want an intentional crash
   throw new Error(msg);
 }
+
+export {}

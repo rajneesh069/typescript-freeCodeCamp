@@ -53,3 +53,4 @@ console.log(obj.getName());
 These things are also possible with types
 
 */
+export {}

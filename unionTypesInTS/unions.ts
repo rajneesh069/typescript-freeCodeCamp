@@ -60,3 +60,5 @@ const data: (string | number | boolean)[] = ["1", 2, 3, true];
 let seatAllotment: "aisle" | "middle" | "window";
 //  seatAllotment = "crew"; //->gives error
 seatAllotment = "middle"; //-> works fine
+
+export {}

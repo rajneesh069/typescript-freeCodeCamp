@@ -20,3 +20,4 @@ type someNewUser = readonly[number, string];
 let newUser1 : someNewUser;
 newUser1 = [11,'rj']; //assigned now and then trying to push
 // newUser1.push(22); //can't do it now because of readonly property
+export {}

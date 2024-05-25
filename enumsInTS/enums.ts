@@ -78,3 +78,4 @@ const enum SeatChoice {
     FOURTH = "fourth",
   }
 */
+export {}
