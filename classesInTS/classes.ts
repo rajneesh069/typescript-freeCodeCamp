@@ -11,3 +11,5 @@ class User {
 
 const rajneesh = new User("rajneesh@gmail.com", "Rajneesh");
 rajneesh.address = "Gayatri Puram Colony";
+
+export {}

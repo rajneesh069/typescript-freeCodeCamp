@@ -41,3 +41,5 @@ const sachin = new User1(
   21
 );
 console.table([sachin]);
+
+export {}
