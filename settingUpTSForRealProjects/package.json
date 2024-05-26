@@ -1,0 +1,12 @@
+{
+  "name": "settinguptsforrealprojects",
+  "version": "1.0.0",
+  "description": "1. To initialize Typescript and tsconfig.json for the project :",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
